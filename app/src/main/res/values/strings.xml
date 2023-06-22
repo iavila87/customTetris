@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tetrominos</string>
+    <string name="left_text">IZQUIERDA</string>
+    <string name="rigth_text">DERECHA</string>
+    <string name="rotate_left_text">ROTAR IZQ</string>
+    <string name="rotate_right_text">ROTAR DER</string>
+    <string name="down_text">ABAJO</string>
+    <string name="next_block_title">SIGUIENTE</string>
+    <string name="score_title">PUNTOS</string>
+    <string name="score_value">00000</string>
+    <string name="level_value">0</string>
+    <string name="level_title">NIVEL</string>
+    <string name="game_over_message">Juego Finalizado</string>
+    <string name="continue_game">SIGUIENTE</string>
+    <string name="exit_game">Salir</string>
+    <string name="title_activity_hall_of_fame">Hall of Fame</string>
+    <string name="player_name">Jugador</string>
+    <string name="easy_level">Fácil</string>
+    <string name="medium_level">Normal</string>
+    <string name="hard_level">Difícil</string>
+    <string name="version">V 1.0.0</string>
+    <string name="game_dificulty">DIFICULTAD</string>
+    <string name ="congratulations">Felicitaciones, ¡nuevo puntaje máximo!</string>
+    <string name="try_again">Intente nuevamente</string>
+</resources>
